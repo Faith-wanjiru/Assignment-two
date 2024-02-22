@@ -1,0 +1,11 @@
+.sign{
+    display: grid;
+    grid-template-columns :50%50%;
+    padding: 30px;
+}
+
+#form{
+    border-right: solid 2px;
+    border:none;
+    margin: auto;
+}
